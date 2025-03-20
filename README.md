@@ -162,11 +162,11 @@ Understanding **what factors contribute to a book’s popularity** can help publ
 ## **📌 How to Run This Project?**  
 ### 1️⃣ **Run Data Cleaning (Python)**  
 - Open `jupyter notebook`  
-- Run `data_cleaning.ipynb` to clean & export the dataset  
+- Run `Cleaned_GoodBooks.ipynb` to clean & export the dataset  
 
 ### 2️⃣ **Run SQL Queries**  
 - Import `Cleaned_GoodBooks.csv` into **MySQL Workbench**  
-- Execute **SQL queries** in `SQL_Queries.sql`  
+- Execute **SQL queries** in `Project_Insights.sql`  
 
 ### 3️⃣ **Load Data into Power BI**  
 - Open **Power BI**  
